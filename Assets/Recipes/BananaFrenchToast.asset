@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13cd25d9ac6e7c848a10a107676de608, type: 3}
+  m_Name: BananaFrenchToast
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
+  ingredients: 0b0000000000000003000000
+  resultPrefab: {fileID: 7727500524346680894, guid: 6a15388dc114ce143934a707b1c425c1, type: 3}
+  orderSprite: {fileID: 175166102585551124, guid: 32bfa423320faca4099e9ff913dbebc2, type: 3}
+  sellPrice: 50
+  unlockDay: 4

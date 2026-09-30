@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13cd25d9ac6e7c848a10a107676de608, type: 3}
+  m_Name: BananaMilk
+  m_EditorClassIdentifier: Assembly-CSharp::RecipeSO
+  ingredients: 0b00000003000000
+  resultPrefab: {fileID: 6692267969230353766, guid: d85b57fad0502f64abbcd2e126fbca8b, type: 3}
+  orderSprite: {fileID: 4181114809798385602, guid: b57e61603f68b6e44a6da5272942ed87, type: 3}
+  sellPrice: 20
+  unlockDay: 3
